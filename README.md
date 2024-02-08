@@ -1,7 +1,7 @@
 
-![Uploading 2023-10-10-202412-screenshot.jpg…]()
-![Uploading 2023-09-26-155232-screenshot.jpg…]()
+![2023-10-10-202412-screenshot](https://github.com/yzkthreadz/dwm/assets/142318731/1b3b4724-cf0e-42d6-926f-ec2599c08557)
 
+![2023-09-26-155232-screenshot](https://github.com/yzkthreadz/dwm/assets/142318731/ab503a38-2a73-4c84-83b6-dc9895a2f544)
 
 dwm - dynamic window manager
 ============================
